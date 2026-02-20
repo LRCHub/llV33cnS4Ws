@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "スカー - Scar",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2026-02-20T05:16:13.259121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スカー",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_スカー_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スカー",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_スカー_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スカー",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/03_スカー_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スカー",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/04_スカー_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スカー - Scar",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/05_スカー_-_Scar_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スカー・クイーン",
+      "artist": "Fallujah",
+      "has_synced": false,
+      "path": "select/06_スカー・クイーン_Fallujah.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スカー",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_スカー_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スカー",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_スカー_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "スカー",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_03_スカー_キタニタツヤ.txt"
+    }
+  ]
+}
